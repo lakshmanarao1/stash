@@ -1,7 +1,12 @@
 hii this file2
+<<<<<<< HEAD
 lakshman 
 sudheer
 swami
 shariff
 tirupati
 
+=======
+iam lakshman
+stash applied concept applied here
+>>>>>>> d073d6f7e51c13685694e6b80e8da5f13a0659cf
